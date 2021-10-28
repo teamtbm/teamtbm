@@ -1,0 +1,5 @@
+##  Hello There Wild User!
+
+TeamTBM started around June/July 2019, when we were just a small group with no real projects or ideas. As the year went on, we kept coming up with ideas and dreams later to realise they would become reality. As 2019 came to a close, we had a small Google Site which for some reason we decided to use to host our own HTML (Which was terrible at the time), but this was probably because we didn't know much HTML nor did we know how to set up a Website for ourselves.
+
+Early in 2020, we got our own domain tbmproduction.com and we created a very basic Website on it, which at the time had no real use. Once we had studied Website Developing some more, and got advice from others, we got a site template, edited it and created our first proper Website. This site was first used to display information about us, but as time went on, we kept adding things, like access to our APIs, areas for Users to create their own account and customise it and so on. The site you see today is our most recent "upgrade" containing everything we feel right to display about us and what we do.
